@@ -60,7 +60,3 @@ export const h = <T extends keyof JSX.IntrinsicElements>(
       return { kind: "structured" as const, tag, attrs, children };
   }
 };
-
-export const query = (q: JSX.Element) => {
-  console.log(q);
-};

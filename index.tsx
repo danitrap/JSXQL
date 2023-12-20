@@ -1,6 +1,6 @@
 import * as JSXQL from "./jsxql";
 
-JSXQL.query(
+console.log(
   <from table="users">
     <select columns={["name", "age"]} />
     <where>
