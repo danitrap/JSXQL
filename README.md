@@ -1,5 +1,7 @@
 # JSXQL
 
+Pronounced: Jàsqueal
+
 This is the most terrifying thing I've ever done.
 
 ![image](https://github.com/danitrap/JSXQL/assets/1345809/4cb91b3d-e988-4c0b-a6e5-75a730730d4a)
